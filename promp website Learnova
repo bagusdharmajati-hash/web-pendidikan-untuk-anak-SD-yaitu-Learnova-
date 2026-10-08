@@ -1,0 +1,155 @@
+Prom untuk stuktur websitenya dan erornya .
+1. Kamu adalah seorang Learnova yang membantu membuat konsep Personalisasi Pembelajaran Siswa Berdasarkan Analisis Hasil Belajar untuk website.
+
+Saya sedang membuat web Learnova fiktif bernama "Learnova".
+
+Target audiens:
+* pelajar
+* mahasiswa
+* young creator
+
+Brand personality:
+* warm
+* creative
+* calm
+* thoughtful
+* modern
+
+mengidentifikasi materi yang belum dikuasai, kemudian memberikan rekomendasi materi dan soal yang sesuai dengan kebutuhan masing-masing siswa.
+
+Buatkan brand Learnova dengan struktur:
+1. Brand essent
+2. Target audience
+3. Personality
+4. Tone of voice
+5. Visual direction
+6. Color direction
+7. Typography direction
+8. Website feeling
+9. Things to avoid
+
+Gunakan bahasa sederhana dan praktis.
+
+2. Sekarang bertindak sebagai design dan brand critic.
+
+Jangan membuat konsep baru.
+
+Review konsep Learnova sebelumnya.
+
+Cari bagian yang:
+1. masih terasa generik;
+2. terdengar seperti hasil AI;
+3. kurang memiliki identitas;
+4. tidak cocok dengan target audience;
+5. terlalu umum.
+
+Untuk setiap masalah:
+* jelaskan masalahnya;
+* jelaskan mengapa terasa generic;
+* berikan rekomendasi perbaikan.
+
+Jangan mengubah identitas utama Learnova.
+
+3. kemas yang termasuk text kedalam card yang siap aku copy dalam format file.md
+
+4. Sekarang bertindak sebagai design dan brand critic.
+
+Jangan membuat konsep baru.
+
+Review konsep Ruang Seduh sebelumnya.
+
+Cari bagian yang:
+1. masih terasa generik;
+2. terdengar seperti hasil AI;
+3. kurang memiliki identitas;
+4. tidak cocok dengan target audience;
+5. terlalu umum.
+
+Untuk setiap masalah:
+* jelaskan masalahnya;
+* jelaskan mengapa terasa generic;
+* berikan rekomendasi perbaikan.
+
+Jangan mengubah identitas utama Learnova.
+
+5. Ubah Learnova  yang sudah dibuat menjadi file Markdown bernama:
+
+learnova.md
+
+Gunakan heading Markdown yang rapi.
+
+Pertahankan informasi penting dari Learnova.
+
+Jangan tambahkan informasi yang tidak ada tanpa alasan.
+
+Jika lingkungan AI mendukung pembuatan file, hasilkan file tersebut.
+Jika tidak, keluarkan isi final yang siap disimpan dengan nama file tersebut.
+
+6. Ubah Learnova  yang sudah dibuat menjadi file Markdown bernama:
+
+learnova.md
+
+Gunakan heading Markdown yang rapi.
+
+Pertahankan informasi penting dari Learnova.
+
+Jangan tambahkan informasi yang tidak ada tanpa alasan.
+
+Jika lingkungan AI mendukung pembuatan file, hasilkan file tersebut.
+Jika tidak, keluarkan isi final yang siap disimpan dengan nama file tersebut.
+
+Berdasarkan  Learnova, buat file:
+
+learnova-design-prompt.txt
+
+Isi file hanya dengan design prompt final yang siap digunakan pada UI generation tool.
+
+Prompt harus menjelaskan:
+* target user
+* brand personality
+* visual direction
+* layout direction
+* content hierarchy
+* typography feeling
+* color feeling
+* hero section
+* menu section
+* story/about section
+* location/contact
+* mobile behavior
+* interaction feeling
+
+Hindari:
+* neon
+* cyberpunk
+* excessive purple gradients
+* excessive glassmorphism
+* random glowing elements
+* generic SaaS patterns
+
+Fokus pada karakter Learnova.
+
+              Prom  Pembuatan UI / UX website
+1. google.accounts.id.initialize(IdConfiguration) 
+tambahin code yang di atas lalu gabungkan dan buatkan tampilan web nya . dan pastikan semua perintah / perangkat berjalan lancar tidak ad yang eror satu pun. buatkan.
+2. nah sekarang kasih materi setiap matapelajaran yang terhadap Learnova . buatkan .
+Lite
+Materi Learnova kini mencakup 15 pelajaran: masing-masing tiga untuk HTML, CSS, JavaScript, Database, dan AI. Tiap pelajaran memiliki bacaan, contoh atau latihan, dan navigasi; progres tersimpan di browser. Build dan uji alur kelima mata pelajaran berhasil.
+Open website
+Langkah berikutnya yang bisa ditambahkan:
+•	Kuis singkat di akhir setiap mata pelajaran.
+•	Sinkronisasi progres antarperangkat dengan Firebase.
+•	Sertifikat setelah seluruh pelajaran selesai.
+Learnova — Future Education
+Not published
+Thu, 8:45 AM
+Rollback
+ 
+8:45 AM
+How was this result?
+ https://learnova-hzxcgypc.manus.space/
+tambahkan lebih banayk materinya di setiap mapel , dan soal ujiannya di banyakin . code yang di atas jangan di ubah tinggal tambah sedikit aja . buatkan
+Lite
+Ditambahkan 15 materi sehingga kini tersedia enam pelajaran di setiap mapel, lengkap dengan penjelasan dan latihan. Ujian diperluas dari 5 menjadi 25 soal—lima per mapel. Desain dan alur utama dipertahankan. Build berhasil, dan tes browser5%
+7. https://learnova-hzxcgypc.manus.space/
+tambahkan lebih banayk materinya di setiap mapel , dan soal ujiannya di banyakin . code yang di atas jangan di ubah tinggal tambah sedikit aja . buatkan
